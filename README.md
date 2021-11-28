@@ -1,16 +1,21 @@
-### Hi there 👋
+## Fill5623
 
-<!--
-**fill5623/Fill5623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Вот логотип 1с тут у меня
 
-Here are some ideas to get you started:
+![alt-текст](https://github.com/fill5623/Fill5623/blob/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2021-11-28_211823.png?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Ссылка на поисковик гугель](https://www.google.com)
+
+А тут я табличку реши попробовать сделать.
+
+| Таблицы       | Это                | Круто |
+| ------------- |:------------------:| -----:|
+| столбец 3     | раз    | $1600 |
+| столбец 2     | два |   $12 |
+| зебра-строки  | три         |    $1 |
+
+
+Markdown | не такой | красивый
+--- | --- | ---
+*Но выводится* | `все таки` | **прикольно**
+1 | 2 | 3
